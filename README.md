@@ -1,6 +1,7 @@
 # Project Lyrics
 
 Develop an elegant React.js Music Application. 
+Use of Shazam API and Spotify API endpoints from Rapid API
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
 
